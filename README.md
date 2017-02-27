@@ -4,4 +4,4 @@
 + blade官网：http://bladejava.com  
 + 群主博客：https://biezhi.me
 
-| &nbsp;[有用的链接](hyperlinks.md)&nbsp; | &nbsp;[像我这样的小白会遇到问题](Questions&Answers.md)&nbsp; |
+| &nbsp;[有用的链接](hyperlinks.md)&nbsp; | &nbsp;[像我这样的小白会遇到问题](questions&answers.md)&nbsp; |
