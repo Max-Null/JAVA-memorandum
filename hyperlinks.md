@@ -15,3 +15,5 @@
 | http://www.jianshu.com/p/2d250bde57aa | Web | 深入浅出Web service | Vindar-GM | 中文 | 2017-2-27 |
 | http://www.jianshu.com/p/31c48b8c64c8 | Web | 从零开始搭建论坛（一）：Web服务器与Web框架 | Vindar-GM | 中文 | 2017-2-27 |
 | http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html | GitHub | 如何贡献自己的力量 | 王爵 | 中文 | 2017-2-28 |
+| http://www.qiuyumi.com/?f=org | 域名 | 域名信息 | 王爵 | 中文 | 2017-2-28 |
+| http://minongbang.com/ | 域名 | 域名信息 | 王爵 | 中文 | 2017-2-28 |
