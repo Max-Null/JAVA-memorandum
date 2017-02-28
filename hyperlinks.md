@@ -17,3 +17,4 @@
 | http://www.cnblogs.com/rubylouvre/archive/2013/01/24/2874694.html | GitHub | 如何贡献自己的力量 | 王爵 | 中文 | 2017-2-28 |
 | http://www.qiuyumi.com/?f=org | 域名 | 域名信息 | 王爵 | 中文 | 2017-2-28 |
 | http://minongbang.com/ | 域名 | 域名信息 | 王爵 | 中文 | 2017-2-28 |
+| http://www.cnblogs.com/xupeizhi/archive/2013/05/20/3088779.html | linux | 强大的screen命令 | 王爵 | 中文 | 2017-2-28 |
